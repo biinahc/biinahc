@@ -2,7 +2,8 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabrinacaldas4)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=biinahc&theme=dark)](https://git.io/streak-stats)
+
+
 
 E aí! Sou uma entusiasta da tecnologia super animada com essa nova fase de transição de carreira! Finalizando a faculdade de Análise e Desenvolvimento de Sistemas com a cabeça cheia de ideias e muita vontade de construir coisas incríveis. No momento, meu foco principal é turbinar meu Frontend e estou embarcando com muita energia na jornada do Backend!
 
@@ -20,6 +21,10 @@ E aí! Sou uma entusiasta da tecnologia super animada com essa nova fase de tran
 🌱 Projetos que me orgulham:
 - Um sistema de controle de estoque para uma pousada que desenvolvi para um curso da Toti. Foi um desafio super bacana e o resultado me deixou muito feliz! Dá uma olhada: [https://github.com/biinahc/pousada-bom-descanso](https://github.com/biinahc/pousada-bom-descanso)
 
+
+✨ Curiosidade: Além de estar super focada nessa virada de chave na carreira, sou do time do Crossfit, adoro pedalar por aí e pegar pesado na musculação! A natureza me recarrega as energias, e nas horas de descanso, um bom livro ou uma série me prendem a atenção!
+
+
 📫 Como me encontrar:
 - [sabrinacaldasads@gmail.com](mailto:sabrinacaldasads@gmail.com)
 
@@ -28,4 +33,8 @@ E aí! Sou uma entusiasta da tecnologia super animada com essa nova fase de tran
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biinahc&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biinahc&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-✨ Curiosidade: Além de estar super focada nessa virada de chave na carreira, sou do time do Crossfit, adoro pedalar por aí e pegar pesado na musculação! A natureza me recarrega as energias, e nas horas de descanso, um bom livro ou uma série me prendem a atenção!
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=biinahc&theme=dark)](https://git.io/streak-stats)
+
+
