@@ -23,9 +23,9 @@
       </p>
       
   <p>E aí! Sou uma desenvolvedora apaixonada por tecnologia, atualmente em um momento de grande evolução. Estou finalizando minha graduação em <strong>Análise e Desenvolvimento de Sistemas</strong> e, ao mesmo tempo, iniciando uma nova jornada em <strong>Ciência da Computação</strong> para aprofundar ainda mais meus conhecimentos.</p>
-      
-   <p>Já estou aplicando tudo na prática como estagiária em <strong>Desenvolvimento de Sistemas</strong>, onde meu foco tem sido em <strong>Python</strong>, explorando frameworks como <strong>Django</strong> e <strong>Flask</strong>, e criando soluções de automação. Estou animada para continuar crescendo, construindo projetos desafiadores e transformando ideias em código!</p>
-      
+  
+  <p>Já estou aplicando tudo na prática como estagiária em <strong>Desenvolvimento de Sistemas</strong>, onde meu foco tem sido em <strong>Python</strong>, explorando frameworks como <strong>Django</strong> e <strong>Flask</strong>, e criando soluções de automação. Estou animada para continuar crescendo, construindo projetos desafiadores e transformando ideias em código!</p>
+    
   <p><strong>Tecnologias e Ferramentas:</strong></p>
   <div align="left">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -50,8 +50,8 @@
         <img src="https://github-readme-stats.vercel.app/api?username=biinahc&show_icons=true&theme=dracula&hide_border=true" />
       </a>
       <br><br>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/streak?user=biinahc&theme=dracula&hide_border=true" />
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=biinahc&theme=dracula&hide_border=true" />
       </a>
     </p>
     <br>
