@@ -17,44 +17,35 @@
 
 <table>
   <tr valign="top">
-    <td width="50%">
+    <td width="55%">
       <p align="center">
         <img src="https://raw.githubusercontent.com/biinahc/biinahc/main/sabrina.png" alt="Sabrina Caldas" width="125" style="border-radius:50%;"/>
       </p>
     
-  <p>E aí! Sou uma desenvolvedora apaixonada por tecnologia, atualmente em um momento de grande evolução. Estou finalizando minha graduação em <strong>Análise e Desenvolvimento de Sistemas</strong> e, ao mesmo tempo, iniciando uma nova jornada em <strong>Ciência da Computação</strong> para aprofundar ainda mais meus conhecimentos.</p>
+  <p>Sou desenvolvedora em transição constante, vinda de uma bagagem de 10 anos no setor de segurança para o ecossistema tech. Atualmente, curso <strong>Ciência da Computação</strong> e sou graduada em <strong>Análise e Desenvolvimento de Sistemas</strong>.</p>
   
-  <p>Já estou aplicando tudo na prática como estagiária em <strong>Desenvolvimento de Sistemas</strong>, onde meu foco tem sido em <strong>Python</strong>, explorando frameworks como <strong>Django</strong> e <strong>Flask</strong>, e criando soluções de automação. Estou animada para continuar crescendo, construindo projetos desafiadores e transformando ideias em código!</p>
+  <p>Atuo como <strong>Estagiária de Desenvolvimento</strong>, focada em criar soluções inteligentes com <strong>Python (Django/Flask)</strong> e automações de processos (RPA). Agora, estou mergulhando na era da <strong>IA e NLP (Processamento de Linguagem Natural)</strong>, buscando integrar modelos inteligentes para otimizar fluxos de trabalho.</p>
     
-  <p><strong>Tecnologias e Ferramentas:</strong></p>
+  <p><strong>Stack & Ferramentas:</strong></p>
   <div align="left">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django"/>
+    <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+    <img src="https://img.shields.io/badge/RPA-BotCity-orange?style=flat" alt="RPA"/>
+    <img src="https://img.shields.io/badge/NLP-Natural_Language_Processing-blue?style=flat&logo=openai" alt="NLP"/>
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" alt="Selenium"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
   </div>
   </td>
-  <td width="50%">
-    <p><strong>Estatísticas do GitHub</strong></p>
+  <td width="45%">
+    <p><strong>GitHub Stats</strong></p>
     <p align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biinahc&layout=compact&theme=dracula&hide_border=true" />
       </a>
-      <br><br>
+      <br>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=biinahc&show_icons=true&theme=dracula&hide_border=true" />
-      </a>
-    </p>
-    <br>
-    <p><strong>Meu Projeto Pessoal Recente</strong></p>
-    <p align="center">
-      <a href="https://github.com/biinahc/gestao-confeitaria-flask">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=biinahc&repo=gestao-confeitaria-flask&theme=dracula&hide_border=true" />
       </a>
     </p>
   </td>
@@ -63,4 +54,11 @@
 
 <br>
 
-<p><strong>✨ Curiosidade:</strong> Além de estar super focada nessa virada de chave na carreira, sou do time do Crossfit, adoro pedalar por aí e pegar pesado na musculação! A natureza me recarrega as energias, e nas horas de descanso, um bom livro ou uma série me prendem a atenção!</p>
+### 🚀 Projetos em Destaque
+* **Projeto Queimadas:** Automação RPA que monitora focos de incêndio via dados do INPE e gera mapas interativos.
+* **C-Flow:** Dashboard inteligente para gestão de negócios com planos de ação gerados por IA.
+* **Gestão de Confeitaria:** Sistema completo em Flask para controle administrativo.
+
+<br>
+
+<p><strong>✨ Fora do Código:</strong> Sou entusiasta do <strong>Crossfit</strong>, corredora e apaixonada por trilhas. Acredito que a disciplina do esporte reflete diretamente na qualidade do meu código. Quando não estou pedalando por Manaus, estou com um bom livro ou uma taça de vinho! 🍷🚵‍♀️</p>
