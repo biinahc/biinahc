@@ -16,41 +16,41 @@
 <br>
 
 <table>
-  <tr valign="top">
-    <td width="55%">
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/biinahc/biinahc/main/sabrina.png" alt="Sabrina Caldas" width="125" style="border-radius:50%;"/>
-      </p>
+<tr valign="top">
+<td width="55%">
+<p align="center">
+<img src="https://raw.githubusercontent.com/biinahc/biinahc/main/sabrina.png" alt="Sabrina Caldas" width="125" style="border-radius:50%;"/>
+</p>
       
-      <p>Sou desenvolvedora em transição constante, vinda de uma bagagem de 10 anos no setor de segurança para o ecossistema tech. Atualmente, curso <strong>Ciência da Computação</strong> e sou graduada em <strong>Análise e Desenvolvimento de Sistemas</strong>.</p>
+<p>Sou desenvolvedora em transição constante, vinda de uma bagagem de 10 anos no setor de segurança para o ecossistema tech. Atualmente, curso <strong>Ciência da Computação</strong> e sou graduada em <strong>Análise e Desenvolvimento de Sistemas</strong>.</p>
   
-      <p>Atuo como <strong>Estagiária de Desenvolvimento no SIDI</strong>, integrando a equipe do projeto <strong>Bixby</strong>. Meu foco principal é trabalhar com <strong>Inteligência Artificial, LLMs e NLP (Processamento de Linguagem Natural)</strong>, desenvolvendo soluções inteligentes. Além da minha imersão em IA, possuo sólida experiência na criação de sistemas com <strong>Python (Django/Flask)</strong> e na construção de automações de processos (RPA).</p>
+<p>Atuo como <strong>Estagiária de Desenvolvimento no SIDI</strong>, integrando a equipe do projeto <strong>Bixby</strong>. Meu foco principal é trabalhar com <strong>Inteligência Artificial, LLMs e NLP (Processamento de Linguagem Natural)</strong>, desenvolvendo soluções inteligentes. Além da minha imersão em IA, possuo sólida experiência na criação de sistemas com <strong>Python (Django/Flask)</strong> e na construção de automações de processos (RPA).</p>
         
-      <p><strong>Stack & Ferramentas:</strong></p>
-      <div align="left">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django"/>
-        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
-        <img src="https://img.shields.io/badge/LLM-Large_Language_Models-8A2BE2?style=flat" alt="LLM"/>
-        <img src="https://img.shields.io/badge/NLP-Natural_Language_Processing-blue?style=flat&logo=openai" alt="NLP"/>
-        <img src="https://img.shields.io/badge/RPA-BotCity-orange?style=flat" alt="RPA"/>
-        <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" alt="Selenium"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-      </div>
-    </td>
-    <td width="45%">
-      <p><strong>GitHub Stats</strong></p>
-      <p align="center">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biinahc&layout=compact&theme=dracula&hide_border=true" />
-        </a>
-        <br>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=biinahc&show_icons=true&theme=dracula&hide_border=true" />
-        </a>
-      </p>
-    </td>
-  </tr>
+<p><strong>Stack & Ferramentas:</strong></p>
+<div align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+<img src="https://img.shields.io/badge/LLM-Large_Language_Models-8A2BE2?style=flat" alt="LLM"/>
+<img src="https://img.shields.io/badge/NLP-Natural_Language_Processing-blue?style=flat&logo=openai" alt="NLP"/>
+<img src="https://img.shields.io/badge/RPA-BotCity-orange?style=flat" alt="RPA"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" alt="Selenium"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+</div>
+</td>
+<td width="45%">
+<p><strong>GitHub Stats</strong></p>
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biinahc&layout=compact&theme=dracula&hide_border=true" />
+</a>
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=biinahc&show_icons=true&theme=dracula&hide_border=true" />
+</a>
+</p>
+</td>
+</tr>
 </table>
 
 <br>
@@ -59,6 +59,7 @@
 * **Projeto Queimadas:** Automação RPA que monitora focos de incêndio via dados do INPE e gera mapas interativos.
 * **C-Flow:** Dashboard inteligente para gestão de negócios com planos de ação gerados por IA.
 * **Gestão de Confeitaria:** Sistema completo em Flask para controle administrativo.
+* **SentinelPIM:** Sistema de controle de entrada e saída de colaboradores com funcionamento offline, desenvolvido para substituir o uso de papel pelo gerenciamento digital via celular ou notebook.
 
 <br>
 
