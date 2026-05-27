@@ -41,12 +41,8 @@
 <td width="45%">
 <p><strong>GitHub Stats</strong></p>
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biinahc&layout=compact&theme=dracula&hide_border=true" />
-</a>
-<br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=biinahc&show_icons=true&theme=dracula&hide_border=true" />
+<a href="https://github.com/biinahc">
+<img src="https://streak-stats.demolab.com/?user=biinahc&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </a>
 </p>
 </td>
